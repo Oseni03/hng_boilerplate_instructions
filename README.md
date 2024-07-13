@@ -2,6 +2,13 @@
 
 FastAPI boilerplate
 
+Database Design:
+![Database Design](/api_design.png "api design")
+
+
+Documentation API design Link:
+[API Design](https://app.swaggerhub.com/apis-docs/AYOBAMIDELEEWETUGA/hng_boilerplate_python_fastapi_web/1.0.0)
+
 ## Setup
 
 1. Create a virtual environment.
@@ -26,8 +33,3 @@ FastAPI boilerplate
  python main.py
 ```
 
-Documentation API design Link:
-[API Design](https://app.swaggerhub.com/apis-docs/AYOBAMIDELEEWETUGA/hng_boilerplate_python_fastapi_web/1.0.0)
-
-Database Design:
-![Database Design](/api_design.png "api design")
